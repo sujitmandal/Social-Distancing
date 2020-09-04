@@ -17,7 +17,7 @@ Twitter : https://twitter.com/mandalsujit37
 '''
 
 model = cv2.dnn.readNet('model/MobileNetSSD_deploy.prototxt.txt', 'model/MobileNetSSD_deploy.caffemodel')
-laptopCam = cv2.VideoCapture('videos/test.mp4')
+laptopCam = cv2.VideoCapture('videos/abc.mp4') #privide any video 
 #laptopCam = cv2.VideoCapture(0)
 portAddress = ('http://192.168.0.100:8080//')
 
