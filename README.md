@@ -1,7 +1,7 @@
 ## Social-Distancing
 Social Distancing using transfer learning, python, MobileNetSSD.
 
-## Model Iormation
+## Model Information
 ```
   Model(
         name='MobileNet-SSD',  # https://github.com/chuanqi305/MobileNet-SSD
