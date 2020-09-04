@@ -63,6 +63,6 @@ Sujit Mandal
 
 [GitHub](https://github.com/sujitmandal)
 
-[PyPI](https://pypi.org/project/images-into-array/)
+[PyPI](https://pypi.org/user/sujitmandal/)
 
 [LinkedIn](https://www.linkedin.com/in/sujit-mandal-91215013a/)
