@@ -18,7 +18,7 @@ Social Distancing using transfer learning, python, MobileNetSSD.
 
 ## Output 
 
-![](https://github.com/sujitmandal/Social-Distancing/blob/master/Save%20Video/ezgif.com-crop.gif)
+![](https://github.com/sujitmandal/Social-Distancing/blob/master/Save%20Video/output.gif)
 
 ## Requirement’s:
 ```
